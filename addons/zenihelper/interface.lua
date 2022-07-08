@@ -1,5 +1,5 @@
 interface = T{
-    is_open = {true,},
+    is_open = {false,},
     bg_alpha = 0.9,
     colors = {
         title = { 1.0, 0.65, 0.26, 0.9 },
